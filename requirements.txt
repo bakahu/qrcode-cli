@@ -1,0 +1,4 @@
+colorama==0.4.4
+Pillow==9.1.0
+pyzbar==0.1.9
+qrcode==7.3.1
